@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SubSurveyServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sn2ov.war">
+      <element id="artifact" artifact-name="SubSurveyServer:war exploded" />
+    </root>
+  </artifact>
+</component>
